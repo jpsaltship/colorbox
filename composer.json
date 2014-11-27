@@ -3,24 +3,12 @@
 	"title": "Colorbox",
 	"description": "jQuery lightbox and modal window plugin",
 	"version": "1.5.14",
-	"type": "component",
-	"require": {
-		"robloach/component-installer": "*"
-	},
 	"dependencies": {
 		"jquery": ">=1.3.2"
 	},
-	"extra": {
-		"component": {
-			"scripts": [
-				"js/jquery.colorbox-min.js"
-			],
-			"styles": [
-			],
-			"files": [
-			]
-		}
-	},
+	"archive": {
+        "exclude": ["/", "!/jquery.colorbox-min.js", "!/jquery.colorbox.js"]
+    },
 	"keywords": [
 		"modal",
 		"lightbox",
