@@ -1,11 +1,14 @@
 {
-	"name": "components/saltship_colorbox",
+	"name": "saltshipdesign/colorbox",
 	"title": "Colorbox",
 	"description": "jQuery lightbox and modal window plugin",
 	"version": "1.5.14",
 	"dependencies": {
 		"jquery": ">=1.3.2"
 	},
+	"archive": {
+        "exclude": ["/example1", "/example*"]
+    },
 	"keywords": [
 		"modal",
 		"lightbox",
