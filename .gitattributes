@@ -5,4 +5,5 @@ example4/ export-ignore
 example5/ export-ignore
 bower.json export-ignore
 colorbox.ai export-ignore
-colorbox.jquery.json
+colorbox.jquery.json export-ignore
+
