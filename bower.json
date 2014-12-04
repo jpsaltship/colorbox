@@ -35,6 +35,8 @@
 		"example2",
 		"example3",
 		"example4",
-		"example5"
+		"example5",
+		"composer.json",
+		"README.md"
 	]
 }
